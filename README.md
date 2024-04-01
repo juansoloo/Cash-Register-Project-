@@ -38,5 +38,4 @@ This project simulates a cash register. It's part of the freeCodeCamp curriculum
 
 This project is designed for educational purposes as part of the freeCodeCamp curriculum. It aims to provide practical experience with web development basics including HTML, CSS, and JavaScript.
 
-"""
 
