@@ -1,0 +1,83 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  /* Header styles */
+  header {
+    background: #007bff;
+    color: #fff;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+  }
+  
+  /* Main content styles */
+  main {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+    background: #fff;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  /* Section styles */
+  section {
+    margin: 20px 0;
+  }
+  
+  /* Input and Button styles */
+  input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    box-sizing: border-box; /* Makes padding included in the width */
+  }
+  
+  button {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #218838;
+  }
+  
+  /* Change due styles */
+  #change-due {
+    padding: 10px;
+    background-color: #ffc107;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    color: #212529;
+    text-align: center;
+  }
+  
+
+  footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
+  
