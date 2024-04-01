@@ -3,7 +3,6 @@ A cash register project for freeCodeCamp
 
 # Creating a README.md content for the provided project
 
-readme_content = """
 # Cash Register Project
 
 This project simulates a cash register. It's part of the freeCodeCamp curriculum. The project involves handling user input, calculating change due based on the total purchase amount and cash given by the customer, and updating the cash drawer accordingly.
@@ -41,9 +40,3 @@ This project is designed for educational purposes as part of the freeCodeCamp cu
 
 """
 
-# Saving the content to a README.md file
-path = "/mnt/data/README.md"
-with open(path, "w") as file:
-    file.write(readme_content)
-
-path
